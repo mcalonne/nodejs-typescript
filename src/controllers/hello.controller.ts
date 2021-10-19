@@ -1,0 +1,1 @@
+export const sayHello = (): String => "Hello World from Hapi !";
